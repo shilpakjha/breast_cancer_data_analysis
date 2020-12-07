@@ -2,6 +2,7 @@
 logs
 *.log
 *.csv
+*.pdf
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
