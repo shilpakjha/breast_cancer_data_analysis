@@ -1,4 +1,4 @@
-# Breast Cancer Data Analysis, Insights Generation and Outcome Prediction Using Machine Learning
+# Breast Cancer Data Analysis, Insights Generation and Outcome Prediction
 
 ## Introduction
 
