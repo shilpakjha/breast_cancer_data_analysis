@@ -1,4 +1,4 @@
-# Breast Cancer Data Analysis, Insights Generation and Outcome Prediction
+# Breast Cancer Data Analysis and Insights Generation
 
 ## Introduction
 
@@ -14,7 +14,6 @@ The main focus of this project was to use the US Breast Cancer patient cohort da
 2. Evaluate the percent distribution of Breast Cancer patients across the United States  
 3.	Evaluate any correlation between breast cancer survival outcomes and socioeconomic factors such as poverty and median income levels within the state which has the highest percentage of the Breast Cancer patient population
 4.	Evaluate the survival and death rates among the above mentioned groups
-5.	Apply machine learning models, perform hyper parameter tuning and perform model fine tuning to select the best model for predicting the target variable (survival outcome) among breast cancer patients 
  
 ## References
 
