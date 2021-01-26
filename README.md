@@ -8,7 +8,7 @@ The Surveillance, Epidemiology, and End Results (SEER) program supported by the 
 
 ## Project Goals
 
-The main focus of this project was to use the US Breast Cancer patient cohort data from 2010 -2016 available in the SEER Incidence Database [specifically - Incidence - SEER 18 Regs Research Data + Hurricane Katrina Impacted Louisiana Cases, Nov 2018 Sub(1975-2016 varying)] (4)to:  
+The main focus of this project is to use the US Breast Cancer patient cohort data from 2010 -2016 available in the SEER Incidence Database [specifically - Incidence - SEER 18 Regs Research Data + Hurricane Katrina Impacted Louisiana Cases, Nov 2018 Sub(1975-2016 varying)] (4)to:  
 
 1. Evaluate the percent of Breast Cancer patients based on factors such as Race, Age, Stage, Grade, Subtype, Number of In Situ tumors and Number of positive regional lymph nodes
 2. Evaluate the percent distribution of Breast Cancer patients across the United States  
